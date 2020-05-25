@@ -1,6 +1,7 @@
 # Tic-Tac-Toe Game
 
-This is a game-developement project of Tic-Tac-Toe game. A User vs Game Bot developed which entails strategic play
+This is a game-developement project of Tic-Tac-Toe game. The GUI is built with PyGame module and Tkinter.
+A User vs Game Bot developed which entails strategic play
 of the Bot which tends to block the user at winning positions.
 
 ## Getting Started
