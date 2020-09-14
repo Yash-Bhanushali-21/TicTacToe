@@ -5,12 +5,11 @@ A User vs Game Bot developed which entails strategic play
 of the Bot which tends to block the user at winning positions.
 
 ##Screens
-```
+
 ![image](https://github.com/yash11213018/TicTacToe/blob/master/images/tictac_screen2.JPG)
 ![image](https://github.com/yash11213018/TicTacToe/blob/master/images/tictac_screen2.JPG)
 ![image](https://github.com/yash11213018/TicTacToe/blob/master/images/tictac_screen3.JPG)
 
-```
 
 ## Getting Started
 ```
