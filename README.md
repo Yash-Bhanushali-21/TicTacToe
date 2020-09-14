@@ -4,6 +4,14 @@ This is a game-developement project of Tic-Tac-Toe game. The GUI is built with P
 A User vs Game Bot developed which entails strategic play
 of the Bot which tends to block the user at winning positions.
 
+##Screens
+```
+![image](https://github.com/yash11213018/TicTacToe/blob/master/images/tictac_screen2.JPG)
+![image](https://github.com/yash11213018/TicTacToe/blob/master/images/tictac_screen2.JPG)
+![image](https://github.com/yash11213018/TicTacToe/blob/master/images/tictac_screen3.JPG)
+
+```
+
 ## Getting Started
 ```
 git clone https://github.com/yash11213018/TicTacToeProject
